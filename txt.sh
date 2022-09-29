@@ -6,7 +6,7 @@ case $n in
 101)
 echo echo "You got 1st prize" ;;
 510)
-echo "You got 2nd prize" ;;
+echo "You goot 2nd prize" ;;
 999)
 echo "You got 3rd prize" ;;
 *)
